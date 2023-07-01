@@ -1,4 +1,3 @@
 # Homepage of MArSha11
 
-Click [**MArSha11's Homepage**](https://github.com/mmistakes/mm-github-pages-starter/generate) to access my homepage!
-
+Click [**MArSha11's Homepage**](https://marsha1147.github.io/) to access my homepage!
